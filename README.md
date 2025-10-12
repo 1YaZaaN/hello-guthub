@@ -18,3 +18,7 @@ This is the first step in mastering GitHub for my AI Engineering course. Every c
 - Zero-capital entrepreneurship
 
 ## 📅 Started: October 2025
+
+
+## Night Drill
+Practicing GitHub before bed. Every commit is progress.
